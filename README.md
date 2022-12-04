@@ -3,7 +3,11 @@
 
 This is nodeJS application to grab the information about the weather. I am using the Mapbox API to get the latitude and longitude of the provided address through the HTML form and rendering the weather forecast data using the Weather Stack API. 
 
-Use `npm install` on the root of the project to install the node dependancies.
+Install node dependancies
+
+```bash
+  npm install
+```
 
 
 ## API used:
