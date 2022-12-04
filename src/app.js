@@ -12,8 +12,8 @@ const app = express()
 
 // Define paths for Express config
 const publicDirectoryPath = path.join(__dirname, '../public')
-const viewPath = path.join(__dirname, '../templates/views')
-const partialPath = path.join(__dirname, '../templates/partials')
+const viewPath = path.join(__dirname, '../temlates/views')
+const partialPath = path.join(__dirname, '../temlates/partials')
 
 // Setup Handlebar engine and views location
 app.set('view engine', 'hbs')
