@@ -6,7 +6,7 @@ This is nodeJS application to grab the information about the weather. I am using
 Install node dependancies:
 
 ```bash
-  npm install
+npm install
 ```
 
 
