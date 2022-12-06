@@ -9,6 +9,9 @@ Install node dependancies:
 npm install
 ```
 
+##Demo
+
+https://weather-app-g3ou.onrender.com/
 
 ## API used:
 
